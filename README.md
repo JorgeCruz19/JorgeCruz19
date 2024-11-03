@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jorge Cruz
+==================================================================================================================================
 
-<!--
-**JorgeCruz19/JorgeCruz19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack Developer
+-------------------
 
-Here are some ideas to get you started:
+I've +3 years experience in JS language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in Honduras
+* ✉️  You can contact me at [jorgecsibrian@gmail.com](mailto:jorgecsibrian@gmail.com)
+* 🚀  I'm currently working on [Televicentro](http://televicentro.com)
+* 🧠  I'm learning AstroJS
+* 🤝  I'm open to collaborating on Interesting projects
